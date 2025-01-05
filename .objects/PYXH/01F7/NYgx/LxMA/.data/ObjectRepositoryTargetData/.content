@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="vKuVf1oNDUujwTHbU1arKQ" Reference="oO1ePmgNAki2KUMqagtQ6w/LxMANBed_0SshoNNLLMQmA" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="acme-test.uipath.com/login" CVScreenId="6c998d36-4166-4ea3-958d-89d5816ea286" CvElementArea="208, 661, 732, 57" CvType="InputBox" DesignTimeRectangle="209, 664, 727, 51" DesignTimeScaleFactor="1.5" ElementType="InputBox" FuzzySelectorArgument="&lt;webctrl id='email' tag='INPUT' type='email' class='form-control ' aaname='Email:' /&gt;" Guid="00c63edd-fdbf-4edf-920d-5dd1f9e0b9a3" IsResponsive="True" ScopeSelectorArgument="&lt;html app='chrome.exe' title='ACME System 1 - Log In' /&gt;" SearchSteps="FuzzySelector, CV" Version="V4" Visibility="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target CVScreenId="6c998d36-4166-4ea3-958d-89d5816ea286" CvTextArea="207, 630, 64, 19" CvTextArgument="Email:" CvType="Text" DesignTimeRectangle="209, 626, 63, 30" ElementType="Text" FuzzySelectorArgument="&lt;webctrl tag='LABEL' type='' class='' aaname='Email:' check:innerText='Email:' /&gt;" Guid="d46ad83a-e6de-4a2f-8e64-3c1944619c10" SearchSteps="FuzzySelector, CV" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="adda0aeab8fdf56236d533a8d2169fb7.png" xmlns="">0i2FGZaibikWrHdNJTRxjVg</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">None</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>
